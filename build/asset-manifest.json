@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cda2a657.css",
+    "main.js": "/static/js/main.566256fa.js",
+    "static/media/greenCheck.png": "/static/media/greenCheck.2feef08f985e44e44af2.png",
+    "static/media/nobg-logo.png": "/static/media/nobg-logo.1276aa7571417b3295d6.png",
+    "static/media/bills-icon.png": "/static/media/bills-icon.6c81b32ed3933469b887.png",
+    "static/media/transfers-icon.png": "/static/media/transfers-icon.07a8d11e3cb268a00457.png",
+    "static/media/notifications-icon.png": "/static/media/notifications-icon.79872f3c8a9af713fabf.png",
+    "index.html": "/index.html",
+    "main.cda2a657.css.map": "/static/css/main.cda2a657.css.map",
+    "main.566256fa.js.map": "/static/js/main.566256fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cda2a657.css",
+    "static/js/main.566256fa.js"
+  ]
+}
